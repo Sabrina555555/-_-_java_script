@@ -211,25 +211,25 @@ body {
   color: #fff;
 }
 [data-type="iceland"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/iceland.jpg");
+  background-image: url("https://sweetpanda.ru/wp-content/uploads/2018/10/1-2.jpg");
 }
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
 }
 [data-type="china"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/china.jpg");
+  background-image: url("https://balthazar.club/o/uploads/posts/2023-10/1696623343_balthazar-club-p-chernaya-pantera-v-prirode-instagram-27.jpg");
 }
 .spinner--right [data-type="china"] .content__left {
   background-image: none;
 }
 [data-type="usa"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/usa.jpg");
+  background-image: url("https://n1s2.hsmedia.ru/8c/7a/1e/8c7a1ea850781b624d9963af15d3cd03/1866x1120_0xac120003_13715951771627392542.jpg");
 }
 .spinner--right [data-type="usa"] .content__left {
   background-image: none;
 }
 [data-type="peru"] .content__left {
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/215059/peru.jpg");
+  background-image: url("https://img.wattpad.com/c53f4f3bc7680a518c6a1dee8b98229b2e98b672/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5f756376704c612d42446f7255413d3d2d36372e313566623462303730346364323431383439383033363035383330352e6a7067?s=fit&w=720&h=720");
 }
 .spinner--right [data-type="peru"] .content__left {
   background-image: none;
